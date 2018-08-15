@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98977caae8958c4bb0678fb9c4b5c796d89e7701">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0d52e61b9266d5591efb178d1d608b910a2d5f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de11908d7a6ba66c06be9d0cd39332c5302a738d">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\instant-run_48df4f4c3ec37dc97ef012ea27e95ce45a22d603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_470d71737b31614318c655483465b663b91ba7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_ccad52bf7e5be82213e1522492bc887cad5ec176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_ddf2f0a80c9b07ea8e8648052056a36d33c04c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_ed3fb64da78484422d9cc7d2f6617069275cbda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_1fa9acfa5fdd5d8289f9250566316d38b6092599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_470d71737b31614318c655483465b663b91ba7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_032449c0f50aace6b6953ede5f67040e0cd814a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_e84c41cab8ffc464ba85116b8de0b283b5d95053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_9fb15392dee331cb71a4c31ec37f89635a1c743e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_9fb15392dee331cb71a4c31ec37f89635a1c743e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_ed3fb64da78484422d9cc7d2f6617069275cbda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_867c7ac4f3888b4267265e9d99baa3991f560e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_1fa9acfa5fdd5d8289f9250566316d38b6092599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_5cf10272ac5de019cc995f814154ba11efe41d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_e865638c6e3c569306f6efab0b794f50234f2172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_867c7ac4f3888b4267265e9d99baa3991f560e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_ccad52bf7e5be82213e1522492bc887cad5ec176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_e865638c6e3c569306f6efab0b794f50234f2172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_5cf10272ac5de019cc995f814154ba11efe41d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_5fe7a13d7ade391b8751934343e7e1ab4e387d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_106c30ddb2a6eab966b753f255a3f6dd26a623f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_5fe7a13d7ade391b8751934343e7e1ab4e387d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_032449c0f50aace6b6953ede5f67040e0cd814a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_106c30ddb2a6eab966b753f255a3f6dd26a623f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_ddf2f0a80c9b07ea8e8648052056a36d33c04c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JuanEnrique\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\JuanEnrique\Desktop\Future Star\Tonterias\MyApplication22\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_e84c41cab8ffc464ba85116b8de0b283b5d95053.jar" />
+    </item>
+
+</items>
